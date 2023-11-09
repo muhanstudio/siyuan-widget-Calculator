@@ -1,0 +1,27 @@
+{
+  "name": "siyuan-widget-Calculator",
+  "author": "muhanstudio",
+  "url": "https://github.com/muhanstudio/siyuan-widget-Calculator",
+  "version": "0.0.2",
+  "minAppVersion": "1.1.1",
+  "displayName": {
+    "default": "Calculator",
+    "zh_CN": "计算器"
+  },
+  "description": {
+    "default": "A beautiful and simple calculator",
+    "zh_CN": "一个漂亮简洁的计算器"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "openCollective": "",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      ""
+    ]
+  }
+}
